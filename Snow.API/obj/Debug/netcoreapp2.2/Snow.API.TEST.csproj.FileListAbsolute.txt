@@ -1,0 +1,17 @@
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\bin\Debug\netcoreapp2.2\Snow.API.TEST.deps.json
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\bin\Debug\netcoreapp2.2\Snow.API.TEST.runtimeconfig.json
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\bin\Debug\netcoreapp2.2\Snow.API.TEST.runtimeconfig.dev.json
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\bin\Debug\netcoreapp2.2\Snow.API.TEST.dll
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\bin\Debug\netcoreapp2.2\Snow.API.TEST.pdb
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\bin\Debug\netcoreapp2.2\Snow.Utility.dll
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\bin\Debug\netcoreapp2.2\Snow.Utility.pdb
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.csprojAssemblyReference.cache
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.csproj.CoreCompileInputs.cache
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.RazorAssemblyInfo.cache
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.RazorAssemblyInfo.cs
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.AssemblyInfoInputs.cache
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.AssemblyInfo.cs
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.RazorTargetAssemblyInfo.cache
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.csproj.CopyComplete
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.dll
+C:\Users\sjapcd\source\repos\SnowAssignment\Snow.API.TEST\obj\Debug\netcoreapp2.2\Snow.API.TEST.pdb
